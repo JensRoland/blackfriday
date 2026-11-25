@@ -1,0 +1,14 @@
+{
+  "name": "DepthField Photo",
+  "url": "https://depthfield.photo/?utm_source=indiegoodies&utm_medium=deals&utm_campaign=blackfriday",
+  "description": "Image editing reinvented: generative AI and a traditional layered editor in one, for the results you want with minimal effort and full creative control",
+  "category": "media",
+  "platforms": ["mac"],
+  "deal": "58% off, $69 → $29, no code needed",
+  "pricing": "one-time",
+  "price": { "regular": 69, "sale": 29, "currency": "USD" },
+  "discount": 58,
+  "startDate": "2026-11-06",
+  "endDate": "2026-12-31",
+  "icon": "https://depthfield.photo/assets/brand/depthfield-app-icon.png"
+}
